@@ -10,11 +10,19 @@ Welcome to learnningclick's documentation!
    :maxdepth: 2
    :caption: Contents:
 
+   chap1
+   chap2
+   chap3
+   chap4
+   chap5
+   chap6
+   chap7
+   chap8
+   chap9
+   chap10
+   chap11
+   
 
 
-Indices and tables
-==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
+
