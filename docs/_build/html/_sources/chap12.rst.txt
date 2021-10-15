@@ -30,4 +30,3 @@ Why why tell me why
 	    need_cmd()
 
 tell me why the func need_cmd did not work?
-	~                                                                                                                                                                            
